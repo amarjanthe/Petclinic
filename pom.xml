@@ -12,12 +12,12 @@
     <url>https://spring-petclinic.github.io/</url>
 
     <servers>
-  <server>
-    <id>sonarcloud</id>
-    <username>admin</username>
-    <password>squ_6ee5257cc7b25696214e88d9ea4ebc758316c14d</password>
-  </server>
-</servers>
+        <server>    
+                      <id>sonarqube</id>
+                      <username>admin</username>
+                      <password>squ_6ee5257cc7b25696214e88d9ea4ebc758316c14d</password>
+         </server>
+    </servers>
 
          
 

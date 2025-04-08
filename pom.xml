@@ -11,14 +11,7 @@
     <description>A Spring Framework application based on JSP, Spring MVC, Spring Data JPA, Hibernate and JDBC</description>
     <url>https://spring-petclinic.github.io/</url>
 
-    <servers>
-        <server>    
-                      <id>sonarqube</id>
-                      <username>admin</username>
-                      <password>squ_6ee5257cc7b25696214e88d9ea4ebc758316c14d</password>
-         </server>
-    </servers>
-
+   
          
 
 
